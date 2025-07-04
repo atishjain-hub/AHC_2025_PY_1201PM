@@ -1,0 +1,288 @@
+-------
+Day 1:
+Date: 9th Jun 2025
+-------
+
+1. Introduction to Python
+2. Features of Python
+3. Application areas of Python
+4. Companies using Python
+5. Why Python is So Popular
+
+-------
+Day 2:
+Date: 10th Jun 2025
+-------
+1. How to Dowload and Install Python 
+2. How to download and Install Pycharm IDE
+3. how to write programs in Python
+   1. Using Python Interactive Mode( IDLE / CommandLine Interface)
+   2. Using Script Mode - (PyCharm IDE)
+4. how to use IDLE for Performing baisc Operations
+5. print() function in python
+6. keyword in python
+7. modules - keyword
+8. Comments in python
+   1. Single Line Comments- #
+   2. Multiline Comments - ''' ..... '''
+9. help() function in python
+
+
+File name: 001_keywords.py
+--------------------------
+import keyword
+
+print("Keywords in Python")
+print("------------------")
+print(keyword.kwlist)
+print("------------------")
+print("No of Keywords in Python are:",len(keyword.kwlist))
+
+
+-------------------
+Day 3:
+Date: 11th Jun 2025
+-------------------
+Working with Modules
+
+# 1st way
+-----------
+import math
+print(math.sqrt(100))
+print(math.pow(2,4))
+
+
+# 2nd way
+-----------
+import math as m
+print(m.sqrt(100))
+print(m.pow(2,4))
+
+# 3rd way
+-----------
+from math import *
+
+print(sqrt(100))
+print(pow(2,4))
+
+
+PIP - Package Installer for Python
+
+----------------------------------
+ZENLER - Mobile app
+
+-------------------
+Day 4:
+Date: 12th Jun 2025
+-------------------
+varaibles & datatypes
+
+in c:
+----
+float x=12.50;
+int y=x;
+
+
+There are 14 datatypes are there in Python divided into 6 categories
+1. Fundamental datatypes
+   a. int
+   b. float
+   c. complex
+   d. bool
+ 
+ 2. sequence category datatypes
+    a. str
+    b. bytes
+    c. bytearray
+    d. range
+ 3. list category datatypes
+    a. list
+    b. tuple
+ 4. set category datatypes
+    a. set
+    b. frozenset
+ 5.dict category datatypes
+    a. dict
+ 6.nonetype category
+    a.none
+
+-------------------
+Day 5:
+Date: 13th Jun 2025
+-------------------
+Data types & Number System
+
+
+-------------------
+Day 6:
+Date: 14th Jun 2025
+-------------------
+
+ZENLER
+Number System:
+1. Decimal Number System
+   base 10 - 0-9
+
+2. Binary Number System
+   base 2 - 0,1
+
+3. Octal Number System
+   base 8 - 0-7
+
+4. Hexa decimal Number System 
+   base 16 - 0-9,A,B,C,D,E,F
+
+
+   https://www.codechef.com/dashboard
+
+
+
+-------------------
+Day 7:
+Date: 16th Jun 2025
+-------------------
+str category datatype
+
+slicing Operation
+
+
+-------------------
+Day 8:
+Date: 17th Jun 2025
+-------------------
+
+-------------------
+Day 9:
+Date: 18th Jun 2025
+-------------------
+
+
+-------------------
+Day 10:
+Date: 19th Jun 2025
+-------------------
+
+Revision:
+
+1. Who Developed Python
+
+-------------------
+Day 11:
+Date: 20th Jun 2025
+-------------------
+
+List datatype
+
+-------------------
+Day 12:
+Date: 21th Jun 2025
+-------------------
+list function
+
+
+-------------------
+Day 13:
+Date: 23rd Jun 2025
+-------------------
+tuple,set and its properties
+
+-------------------
+Day 14:
+Date: 24th Jun 2025
+-------------------
+set and dict
+
+list - []
+tuple - ()
+set - {}
+
+
+-------------------
+Day 15:
+Date: 25th Jun 2025
+-------------------
+dict and NoneType
+
+
+-------------------
+Day 16:
+Date: 27th Jun 2025
+-------------------
+
+-------------------
+Day 17:
+Date: 28th Jun 2025
+-------------------
+finished upto logical operators - 127
+
+
+-------------------
+Day 18:
+Date: 30th Jun 2025
+-------------------
+
+
+-------------------
+Day 19:
+Date: 1st July 2025
+-------------------
+
+var="Hello" if 10>5 else "Hi"
+
+
+var=a if a<b else if b<a b else "both are same"
+
+-------------------
+Day 20:
+Date: 2nd July 2025
+-------------------
+
+-------------------
+Day 21:
+Date: 3rd July 2025
+-------------------
+basic datatypes
+
+programming constructs
+if-else
+loops
+
+datatypes - list, tuple
+
+
+
+loops in python
+there are 2 types:
+1. while
+2. for
+
+
+Example:
+write a program to print hello world message on the console using while loop
+
+
+syntax:
+for variable in iterator_object :
+	statement 1
+	statement 2
+	statement N
+other statements
+
+
+ex: 
+
+s="PYTHON"
+for i in s:
+   print(i)
+
+
+Write a program to read a no and print all its factors
+ 12
+1,2,3,4,6
+
+
+
+-------------------
+Day 22:
+Date: 4th July 2025
+-------------------
