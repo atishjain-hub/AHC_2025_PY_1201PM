@@ -280,9 +280,39 @@ Write a program to read a no and print all its factors
  12
 1,2,3,4,6
 
-
-
 -------------------
 Day 22:
 Date: 4th July 2025
 -------------------
+
+transfer flow or control flow
+1. break - keyword
+2. continue - keyword
+3. pass       - 
+4. return     - functions
+
+Example on break:
+
+input:
+PYTHON
+
+output:
+PYT
+
+-------------------
+Day 23:
+Date: 5th July 2025
+-------------------
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+
+
+
+
+
+
