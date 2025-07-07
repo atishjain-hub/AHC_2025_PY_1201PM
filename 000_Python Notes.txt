@@ -310,8 +310,24 @@ Date: 5th July 2025
 * * * * *
 * * * * *
 
+-------------------
+Day 23:
+Date: 7th July 2025
+-------------------
+
+functions
+modules and packages
+oops
+files
+exceptions
+database connection
 
 
+what is a function?
+a function is a resuable block of code which performs a task
+
+function - independent
+method - associated with a class
 
 
 
