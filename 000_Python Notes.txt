@@ -329,6 +329,17 @@ a function is a resuable block of code which performs a task
 function - independent
 method - associated with a class
 
+-------------------
+Day 24:
+Date: 8th July 2025
+-------------------
 
+
+-------------------
+Day 25:
+Date: 9th July 2025
+-------------------
+
+Types of Parameters
 
 
